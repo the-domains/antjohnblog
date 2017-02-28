@@ -1,0 +1,61 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: antjohnblog
+layout_spectrum: 0.26229457650333643
+typography_spectrum: 0.07253823592327535
+color:
+  brandStrength: 0.6983530507422984
+  lightness: 0.25241080368869007
+  saturation: 0.885334052843973
+  rhythmicContrast: 0.5729486024938524
+  brandColors:
+    - '#B0CC99'
+    - '#677E52'
+    - '#B7CA79'
+    - '#F6E8B1'
+    - '#89725B'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9236181b-d084-433f-8544-a0a2798ffc7e.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/9236181b-d084-433f-8544-a0a2798ffc7e.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: antjohn
+description: blogging my coding journey
+purpose:
+  - type: contact
+    url: 'mailto:antjohnblog@gmail.com'
+    label: email me
+  - type: external
+    url: 'http://stackexchange.com/users/10245624/antjohn'
+    label: Stack Exchange
+github: true
+content_rating:
+  adult: false
+author:
+  name: Anthony Johnson
+  email: antjohnblog@gmail.com
