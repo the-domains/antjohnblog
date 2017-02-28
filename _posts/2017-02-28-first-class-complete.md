@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: First Class Complete
-dateModified: '2017-02-28T08:46:21.210Z'
-datePublished: '2017-02-28T08:46:22.707Z'
+dateModified: '2017-02-28T08:46:59.791Z'
+datePublished: '2017-02-28T08:47:00.870Z'
 title: ''
 author: []
 publisher: {}
@@ -24,7 +24,5 @@ Moving into the overview of software development course, I had a slow start. A b
 Oh... a little while back I did some work for my friend, Mark. He's the owner of Kilroy's Tattoo in SE Portland. In gratitude, I am being blessed with a full sleeve. I cannot recommend him highly enough. Follow this link to see the progress on the tattoo: http://tiny.cc/KilroysTattooBear
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJylVV1v4jgUfd9f4aaaVas2TQhQQqDVAAVKW4byXfoychKTGJI42A4h_Pq1A7TTGWml1RLJ2Ofa19fH517X7YA4601COAJOABm7U3DEOPQoDNUQuRgqwIUcqhL1aKg6MOaYRMj9Cm8RZQK-UyoKYDwL0J0CbOisPUqSyLXOO51ODdiEuoha-qmnUujihFnFeCehncp86JLU0oEOCvFOtNSz4YV-nX835cvrA17Q_zQWypc1EELq4ciSk-Rgp6bY5b51WzYlEEPXxZEn9z_g1epNsVL-dhqqKbLXmIsjBs5FQde_ARUY8e7yZP8DV-7rLt6ezntyL_dS7sGvpq9UmPKrgQBHSPUR9nwuQzrErnISWyX913DL-o3YUszgaMdVGGAvshwUcURPgcmY_m3LhAYX8rYsHEIPaXHk1WzI0G3pGs-ag1GqP3c90hC_H-Op3556otdK5Zi1Gn35H883ZC87za7bnEzbjcZL97Wl7fzmUKKd_XTtthrPlcHjYC2B_rS9m46cfX__uixWq8u3wpUdlsP9opr7e8Dj6ag5e1i9bN_f7Dbre632uKy9mhqvdpLRrDUKp5Xi0zzYE-aNe7336ai1Ihp0r9rDp6dm6XFrNjv8qvcQD0lrV0hXg3Gz4_vGG2O7dm8RFZOgp932f4xQW69Me_On9tactgfzh7FpviyqlfUmmwT46fmZJ4umTZNGNvPL6eARv4UxLqeobLbXumE6-zRLhu7L82u30FzbpR9R_2qGGtHycRMV1qWr7uvkNukOnW1i-MZglvSWmjefdrLMHMzbsZu9j2ERzlqbeEZm2_37uzGbRJGRTs3NfrZ6eEB8UNW746wazl423FuMM6NY6O_o4rZneN3Nik4W-ou53LV2y1bT9ueULRaS3EY76EzW42QYtlpCmy5mcQAzK0_kGjgKqlQ6pECeDzqACSdAPYAxYVimsEVRADneIqEsITrVMKT1oKh8ppC3JhR1bEE9_tDW0a-Zp6EutfmRW6B0lD8EPkXLO8XnPGaWpqVpevNRWm4cEmqx1hyW7AosNxcx1z7rhkMCQq1zXRd-lyTi6hKGOMisBsUwuGYwYipDFC-PVob3yCrkRzuMpRsrIjSEwRFKD6ScsF8zr1CRC_PUcpFDKMypiUSFE1yIKqWmFMaWTRFcq3JcUwAXp0f8TvlpBzBaK_c4AjElHkWMAWBnAHwX_KwD5C7FfA45J0QYzmNCuVjwiUx8sRxkJAHf4Yr4ESNRRFJwBhYCojI6RBIGbEq4D8_OzuoaFHcRf7mJI1dO1TEd97_S9ScPxyJkExFi-FtVymsoEYV-GYga7WPXRdHnxR-08Enm1zqVQx9rURDgmGEmGPYxRyqLoSNvTFIttNOQEuVAPAZUPDOC0GccUJL9fV6s1hiY5PSBi-_rHGUHOi8BiUCd4xB9UPM_ucjfPSQ93imGXqiouqEapYletnTd0ktXstWV-w6ygVG8BnIKgBxUBRqH4HU8qWtycX5jpzz6fGzv_6ozh-KYA8iyyAEuWiIKGHXuFE0T-cyFdsLf8gVFP6djDYU2ctnNisn0PPi4_wekkpls" height="244" style=""></iframe>
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d659233-8363-4a93-bd1b-63595d584a47.jpg)
 
 ~antjohn
